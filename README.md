@@ -19,3 +19,9 @@ This chart was created with [Datawrapper](https://www.datawrapper.de/). It shows
 This bar chart was also created with [Datawrapper](https://www.datawrapper.de/) and shows the same data in a different representation.
 
 <iframe title="Chart: 2017 Lehigh University Undergraduate Enrollment" aria-describedby="This bar chart shows the percentages of undergraduate enrollment in the 6 colleges at Lehigh University in 2017. The College of Arts &amp; Sciences has the largest enrollment among all." id="datawrapper-chart-qYV5g" src="//datawrapper.dwcdn.net/qYV5g/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="299"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+### What About the Faculty?
+
+This column chart shows the division of Lehigh University full-time faculty per college.
+
+<iframe title="Chart: 2017 Lehigh University Faculty Per College" aria-describedby="This column chart shows the amount of full-time faculty employed by each college at Lehigh University. The College of Arts &amp; Sciences has almost as many faculty as the other 3 combined!" id="datawrapper-chart-nfVmx" src="//datawrapper.dwcdn.net/nfVmx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="300"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
