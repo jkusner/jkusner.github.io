@@ -25,3 +25,9 @@ This bar chart was also created with [Datawrapper](https://www.datawrapper.de/) 
 This column chart shows the division of Lehigh University full-time faculty per college.
 
 <iframe title="Chart: 2017 Lehigh University Faculty Per College" aria-describedby="This column chart shows the amount of full-time faculty employed by each college at Lehigh University. The College of Arts &amp; Sciences has almost as many faculty as the other 3 combined!" id="datawrapper-chart-nfVmx" src="//datawrapper.dwcdn.net/nfVmx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="300"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+### How has enrollment changed through the years?
+
+This line chart was created with [Datawrapper](https://www.datawrapper.de/). It shows how the percentages of undergraduate enrollment have changed per college over the last 10 years.
+
+<iframe title="Chart: Lehigh Undergraduate Enrollment Percentage Per College" aria-describedby="This chart shows the Lehigh Undergraduate enrollment percentage per college from 2008 to 2017. Interestingly, the Engineering school had the highest enrollment from 2013-2015 before returning to its previous percentage." id="datawrapper-chart-DZdpW" src="//datawrapper.dwcdn.net/DZdpW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="440"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
