@@ -10,11 +10,13 @@ Hi, I'm John Kusner, a junior studying Computer Science and Engineering at Lehig
 
 ## Project 1
 
-### A Look at how San Francisco's Changing Household Income
+### A Look at San Francisco's Changing Household Income
 
-As San Francisco has become one of the biggest technical hubs of the world, my team was wondering how this has affected the lives of the people who live there. One statistic we want to investigate is how household income has changed due to the tech explosion. Below is a chart created with [Datawrapper](https://www.datawrapper.de/) which shows the upward trend in household income in San Francisco from 2009 to 2017. The data was found via the [American Factfinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) and was published by the [American Community Survey](https://www.census.gov/programs-surveys/acs/). You can download the data by from the chart below.
+As San Francisco has become one of the largest technical hubs in the world, my team was wondering how this has affected the lives of the people who live there. One statistic we want to investigate is how household income has changed due to the tech explosion. Below is a chart created with [Datawrapper](https://www.datawrapper.de/) which shows the upward trend in household income in San Francisco from 2009 to 2017. The dataset was found via the [American Factfinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) and was published by the [American Community Survey](https://www.census.gov/programs-surveys/acs/).
 
 <iframe title="Chart: San Francisco Median Household Income 2009-2017" aria-describedby="This chart highlights how the median income of San Francisco households has changed throughout the years from 2009-2017. In that time, the amount of households earning more than $150k increased by about 12%. Hover over a section to see the percentage value." id="datawrapper-chart-sKgl1" src="//datawrapper.dwcdn.net/sKgl1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="350"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+From 2009 to 2017, the amount of households with over $150k income have increased by about 12%, while the amount earning $75k-$150k stayed about the same. The amount of households in the lowest earning brackets has dropped. Although this looks like a good sign for the citizens of San Francisco, we have yet to investigate how other factors like cost of living have been affected, and we suspect these will tell a different story.
 
 ----
 
