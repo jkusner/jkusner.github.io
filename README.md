@@ -8,6 +8,18 @@ Hi, I'm John Kusner, a junior studying Computer Science and Engineering at Lehig
 
 ----
 
+## Project 2
+
+### A Virtual Tour of Lehigh University
+
+This tour was created with [Google Tour Creator](https://vr.google.com/tourcreator/).
+The first 3 scenes were shot by my team with a Ricoh Theta V 4k 360 camera, but the image quality was messed up in the transfer process. The last 2 are from Google Images. Credit for the various description and audio files can be found on the tour's page.
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/aFsC7J4xHmE/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+
+----
+
 ## Project 1
 
 ### A Look at San Francisco's Changing Household Income
