@@ -8,6 +8,16 @@ Hi, I'm John Kusner, a junior studying Computer Science and Engineering at Lehig
 
 ----
 
+## Project 3
+
+### The Top Average Employer Salaries in San Francisco
+
+San Francisco is known for it's large tech presence. It one of the world's most prominent technical hubs. So it does not come as a surprise that the list of highest paying employers is dominated entirely by tech companies. Check out the chart below, which shows the highest average salaries from SF employers as users have reported on [PayScale.com](https://www.payscale.com/research/US/Location=San-Francisco-CA/Salary/by_Employer). The data was scraped from this page with [ParseHub](https://www.parsehub.com/), a user friendly web-scraping tool.
+
+<iframe title="Chart: Top Average Employer Salaries in San Francisco" aria-describedby="This bar chart shows the salaries of top paying employers in San Francisco according to user submitted profiles on PayScale.com. Interestingly, there are a few distinct groups. Tech companies dominate the top of the list with Amazon and Twitter towering over the rest. Banks and financial companies tend to be lower on the chart, probably due to hiring more than just tech workers." id="datawrapper-chart-emUDl" src="//datawrapper.dwcdn.net/emUDl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="921"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+----
+
 ## Project 2
 
 ### A Virtual Tour of Lehigh University
