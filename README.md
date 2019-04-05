@@ -8,6 +8,16 @@ Hi, I'm John Kusner, a junior studying Computer Science and Engineering at Lehig
 
 ----
 
+## Project 4
+
+### What's Happening in #SanFrancisco?
+
+This interactive story was created with [ArcGIS Story Maps](https://www.arcgis.com/index.html). It talks about the information gathered from a week's worth of #SanFrancisco tweets and how the data was collected.
+
+<iframe width="100%" height="800px" src="https://lu.maps.arcgis.com/apps/Cascade/index.html?appid=d332ff4848654a6e803cb8f1d0471408" frameborder="0" scrolling="yes"></iframe>
+
+----
+
 ## Project 3
 
 ### The Top Average Employer Salaries in San Francisco
