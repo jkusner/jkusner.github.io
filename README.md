@@ -8,6 +8,18 @@ Hi, I'm John Kusner, a junior studying Computer Science and Engineering at Lehig
 
 ----
 
+## Project 7
+
+### Tallest Buildings in San Francisco Throughout the Years
+
+This is another data visualization created with [Tableau Desktop](https://www.tableau.com/products/desktop). The dataset came from [Map of Tall Buildings](https://data.sfgov.org/Housing-and-Buildings/Map-of-Tall-Buildings/xnf9-cudk) on [DataSF](https://datasf.org/). With the ultra-modern [Salesforce Tower](http://images.skyscrapercenter.com/building/2018-09-28-19-44-53_5bae84b522072.jpg) redefining San Francisco's skyline, it is interesting to see how the amount of tall buildings has changed throughout the years. The maps below show the vast amount of growth in tall buildings in SF since 1889. You can use the Completion Date slider on the right of the maps to change the date range you are viewing. If you move the right handle all the way to the left and back, you can see the growth of the city's downtown area. The second page of the visualization breaks these buildings down by their purpose. This shows how the growth of tall buildings in each category compare, from residential to cultural purposes.
+
+<div class='tableauPlaceholder' id='viz1555788322728' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TallSFBuildings&#47;SFTallBuildingsStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;TallSFBuildings&#47;SFTallBuildingsStory?:embed=y&amp;:display_count=y&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TallSFBuildings&#47;SFTallBuildingsStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1555788322728');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+----
+
 ## Project 6
 
 ### US College Admissions and Graduation Rates
