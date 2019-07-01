@@ -1,2 +1,2 @@
 Redirecting...
-<script>setTimeout(() => window.location = 'https://github.com/jkusner', 100)</script>
+<script>setTimeout(function() { window.location = 'https://github.com/jkusner' }, 100)</script>
